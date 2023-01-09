@@ -2,7 +2,7 @@
 
 ## Plano de estudos para Java
 
-Este roadmap é voltado para iniciantes que desejam ingressar na área de programação com Java. Os cursos aqui listados são gratuitos e fazem parte da plataforma DIO.me. 
+Este roadmap é voltado para iniciantes que desejam ingressar na área de programação com Java e também para quem está matriculado no Bootcamp Orange Tech + | BackEnd que é uma trilha de cursos que vai de iniciante a avançado. Os cursos aqui listados são gratuitos e fazem parte da plataforma DIO.me. 
 
 [**Roadmap de Java** (Básico ao Avançado)](https://github.com/julianazanelatto/roadmap_java_repo/blob/main/README.md)
 
