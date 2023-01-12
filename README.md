@@ -1,4 +1,4 @@
-# Mentoria_Plano_Estudos_Gitub
+# Mentoria_Plano_Estudos_GitHub
 
 ## Plano de estudos para Java
 
