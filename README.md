@@ -32,7 +32,7 @@ Meta Março:
 - [ ] Finalizar e revisar o bootcamp
 
 Task para continuar o aprimoramento:
-- [ ] Começar a estudar Java
+- [X] Começar a estudar Java
 - [ ] Assistir ao curso
 - [ ] Faça os desafios de código, projeto
 - [ ] Refazer sozinho 
