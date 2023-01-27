@@ -17,9 +17,9 @@ __*Meta de cursos*__
 3. Dominando IDEs com Java - [acesse o curso](https://web.dio.me/course/dominando-ides-java/learning/b0f1ae39-6af7-4a2c-8fc2-c73ae8463c84)
 
 
-Meta para Janeiro:
-- [ ] Introdução a plataforma Java
-- [ ] Ambiente de desenvolvimento Java
+Meta para Janeiro
+- [X] Introdução a plataforma Java
+- [X] Ambiente de desenvolvimento Java
 - [ ] Dominando IDEs com Java
 
 ## Bootcamps
